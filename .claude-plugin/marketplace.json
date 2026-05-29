@@ -3,7 +3,7 @@
   "name": "claude-journal",
   "description": "Auto-capture and query coding-session work logs",
   "owner": {
-    "name": "wattsdca"
+    "name": "carterDWatts"
   },
   "plugins": [
     {

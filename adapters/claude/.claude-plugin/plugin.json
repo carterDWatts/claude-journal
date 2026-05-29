@@ -2,6 +2,8 @@
   "name": "claude-journal",
   "version": "0.1.0",
   "description": "Auto-capture session summaries on SessionEnd; query via /journal, /standup, /accomplishments.",
-  "author": "wattsdca",
-  "homepage": "https://github.com/wattsdca/claude-journal"
+  "author": {
+    "name": "carterDWatts"
+  },
+  "homepage": "https://github.com/carterDWatts/claude-journal"
 }
