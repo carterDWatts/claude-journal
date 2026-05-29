@@ -9,7 +9,7 @@
     {
       "name": "claude-journal",
       "source": "./adapters/claude",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "SessionEnd-driven journal with /journal, /standup, /accomplishments slash commands"
     }
   ]
