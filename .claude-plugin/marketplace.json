@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-journal",
+  "description": "Auto-capture and query coding-session work logs",
+  "owner": {
+    "name": "wattsdca"
+  },
+  "plugins": [
+    {
+      "name": "claude-journal",
+      "source": "./adapters/claude",
+      "version": "0.1.0",
+      "description": "SessionEnd-driven journal with /journal, /standup, /accomplishments slash commands"
+    }
+  ]
+}
